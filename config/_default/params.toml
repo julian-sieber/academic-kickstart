@@ -86,11 +86,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "test@example.org"
-phone = "888 888 88 88"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "180 Queen's Gate", city = "London", postcode = "SW7 2AZ", country = "United States", country_code = "UK"}
+address = {street = "180 Queen's Gate", city = "London", postcode = "SW7 2AZ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,13 +104,13 @@ directions = ""
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  ]
+#contact_links = [
+ # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+#  ]
 
 ############################
 ## Social
