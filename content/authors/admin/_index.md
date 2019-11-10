@@ -58,9 +58,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 I'm a PhD student in the EPSRC CDT in [Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk), jointly run by Imperial College London and the University of Oxford.
