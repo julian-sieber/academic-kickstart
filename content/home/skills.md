@@ -20,7 +20,8 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = ""
+  icon = "img/mlab_icon.png"
+  icon_pack = "local"
   name = "Matlab"
   
 [[feature]]

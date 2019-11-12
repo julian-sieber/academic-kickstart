@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1812.09144.pdf
+url_preprint: https://arxiv.org/abs/1812.09144
 url_code:
 url_dataset:
 url_poster: "poster_entropy.pdf"
