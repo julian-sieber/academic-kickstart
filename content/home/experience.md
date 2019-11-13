@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2019-09-24"
   description = """
-  My responsibilities included:
+  My responsibilities comprised:
   
   * Software development in Python and Matlab
   * Data analysis and visualization
