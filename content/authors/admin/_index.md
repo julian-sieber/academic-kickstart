@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:j.sieber19@imperial.ac.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=s0dI7MIAAAAJ&hl=en&oi=ao
