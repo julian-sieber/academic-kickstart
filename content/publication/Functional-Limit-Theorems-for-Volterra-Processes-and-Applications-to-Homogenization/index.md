@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Functional Limit Theorems for Volterra Processes and Applications to Homogenization"
-authors: ["Julian Sieber"]
+authors: ["Johann Gehringer", "Xue-Mei Li", "Julian Sieber"]
 date: 2021-04-13
 doi: ""
 
@@ -19,15 +19,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We prove an enhanced limit theorem for additive functionals of a multidimensional Volterra process $(y_t)_{t\geq 0}$. As an application, we establish weak convergence of the solutions of  rough differential equations (RDE) of the form
+abstract: "We prove an enhanced limit theorem for additive functionals of a multidimensional Volterra process $(y_t)_ {t\\geq 0}$. As an application, we establish weak convergence of the solutions of  rough differential equations (RDE) of the form
 $$
-  dx^\varepsilon_t=\frac 1  {\sqrt \varepsilon}  f(x_t^\varepsilon,y_{\frac{t}{\varepsilon}})\,dt+g(x_t^\varepsilon)\,d\mathbf{B}_t,$$
-and identify their limits as solutions of an RDE driven by a Gaussian field with  a drift coming from the L\'evy area correction of the limiting rough driver. The equation models a passive tracer in a random field.
+  dx^\\varepsilon_t=\\frac 1  {\\sqrt \\varepsilon}  f(x_t^\\varepsilon,y_{\\frac{t}{\\varepsilon}})\\,dt+g(x_t^\\varepsilon)\\,d\\mathbf{B}_t,$$
+and identify their limits as solutions of an RDE driven by a Gaussian field with  a drift coming from the Lévy area correction of the limiting rough driver. The equation models a passive tracer in a random field.
 
-In particular if $h$ is random field such that $h(x, \cdot)$ a semi-martingale with spatial parameter $x$,  we show that the solutions of the equations
-$$  dx^\varepsilon_t=\frac 1  {\sqrt \varepsilon}  f(x_t^\varepsilon,y_{\frac{t}{\varepsilon}})\,dt+h(x_t^\varepsilon, dt),$$
+In particular if $h$ is random field such that $h(x, \\cdot)$ a semi-martingale with spatial parameter $x$, we show that the solutions of the equations 
+$$  dx^\\varepsilon_t=\\frac 1  {\\sqrt \\varepsilon}  f(x_t^\\varepsilon,y_{\\frac{t}{\\varepsilon}})\\,dt+h(x_t^\\varepsilon, dt),$$
  converge weakly to that of 
-a Kunita type  It\^o SDE $dx_t=G(x_t,dt)$ where $G(x,t)$ is a semi-martingale with spatial parameters. Furthermore the $N$-point motions converge."
+a Kunita type  Itô SDE $dx_t=G(x_t,dt)$ where $G(x,t)$ is a semi-martingale with spatial parameters. Furthermore the $N$-point motions converge."
 
 # Summary. An optional shortened abstract.
 summary: ""
