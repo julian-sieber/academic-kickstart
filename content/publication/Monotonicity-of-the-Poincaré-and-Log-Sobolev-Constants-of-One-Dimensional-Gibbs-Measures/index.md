@@ -4,7 +4,7 @@
 title: "Monotonicity of the Poincaré and Log Sobolev Constants of One Dimensional Gibbs Measures"
 authors: ["Julian Sieber"]
 date: 2019-10-20T18:57:58+01:00
-doi: ""
+doi: "10.1016/j.spa.2021.06.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-10-20T18:57:58+01:00
@@ -13,11 +13,11 @@ publishDate: 2019-10-20T18:57:58+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "[Stoch. Proc. Appl. 140, 1-20, 2021](https://www.sciencedirect.com/science/article/pii/S0304414921000971?via%3Dihub)"
+publication_short: 
 
 abstract: "We investigate monotonicity properties of the Poincaré and Log-Sobolev constants of symmetric Gibbs measures on compact intervals. More specifically, we show that if the (not necessarily convex) Hamiltonian is an increasing function, then the Poincaré constant is strictly decreasing in the inverse temperature, and vice versa. Applying this result to the $O(2)$ model allows us to give a sharpened upper bound on its Poincaré constant. We further show that this model exhibits a qualitatively different zero-temperature behavior of the Poincaré and Log-Sobolev constants."
 
